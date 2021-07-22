@@ -4,3 +4,4 @@ Olá! Bem vindo ao livro de receitas. :tomato:
 
 - lasanha de frango
 - feijoada
+- pavê
